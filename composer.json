@@ -1,0 +1,10 @@
+{
+    "name": "rozdol/numop-assets",
+    "description": "Test assets",
+    "type": "library",
+    "license": "MIT",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true
+    }
+}
