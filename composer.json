@@ -10,7 +10,7 @@
         }
     ],
     "extra": {
-        "installer-name": "VanillaTheme"
+        "installer-name": "assets"
     },
     "require": {
         "php": ">=5.3",
