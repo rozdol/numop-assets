@@ -1,7 +1,7 @@
 {
     "name": "rozdol/numop-assets",
     "description": "Test assets",
-    "type": "bi-asset",
+    "type": "vanilla-theme",
     "license": "MIT",
     "repositories": [
         {
